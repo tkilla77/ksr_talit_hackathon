@@ -12,4 +12,9 @@
 Schau dir die folgenden Jupyter Notebooks an:
 
   * [notebooks/examples.ipynb](notebooks/examples.ipynb)
-    * Getting Started mit Jupyter, CSV, Pandas
+    * Getting Started mit Jupyter, CSV, Pandas, Geopandas
+  * [notebooks/geodata.ipynb](notebooks/geodata.ipynb)
+    * Daten-Massage, um die Gemeinde-Grenzen in brauchbarem Format zu erhalten
+    * Achtung: das Resultat ist in `data/towns_fixed.geojson` bereits abgespeichert - du brauchst das also nicht unbedingt zu lesen.
+  * [notebooks/geocoding.ipynb](notebooks/geocoding.ipynb)
+    * Wo kriege ich Koordinaten her, wenn ich nur Ortsnamen habe?
